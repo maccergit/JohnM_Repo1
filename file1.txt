@@ -1,2 +1,6 @@
 Part1-D-step5 - updated to create merge conflict
 Part1-F-Step9
+Part2-A-Step2
+Part3-A-Step6
+Part3-A-Step10
+yet another change
